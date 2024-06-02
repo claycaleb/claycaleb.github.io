@@ -9,7 +9,9 @@ body {
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
+  font-size: 20px;
   max-width: 40em;
   margin: 0 auto;
+  padding: 10px;
 }
 
