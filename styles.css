@@ -18,19 +18,8 @@ body {
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-size: 20px;
+  font-size: 16px;
   max-width: 40em;
   margin: 0 auto;
-  padding: 10px;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  display: inline;
   padding: 10px;
 }
