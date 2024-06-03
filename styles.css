@@ -4,6 +4,18 @@ h1, h2, h3 {
   font-style: normal;
 }
 
+h1 {
+  font-size: 3.815rem;
+}
+
+h2 {
+  font-size: 3.052rem;
+}
+
+h3 {
+  font-size: 2.441rem;
+}
+
 h1 > a {
   color: black;
   text-decoration: none;
@@ -18,7 +30,7 @@ body {
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-size: 16px;
+  font-size: 1rem;
   max-width: 40em;
   margin: 0 auto;
   padding: 10px;
@@ -30,7 +42,7 @@ body {
 
 #date {
   margin: 0;
-  font-size: 12px;
+  font-size: 0.8rem;
 }
 
 footer {
