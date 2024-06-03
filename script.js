@@ -2,7 +2,7 @@
 const title = document.querySelector("head > title");
 const contentTitle = document.querySelector("#content-title");
 if (contentTitle !== null) {
-    title.innerHTML = `${contentTitle} | Caleb Clay`
+    title.innerHTML = `${contentTitle.innerHTML} | Caleb Clay`
 }
 
 // Footer Component
