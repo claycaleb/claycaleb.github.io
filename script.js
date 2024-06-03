@@ -9,7 +9,7 @@ const headerContent = `
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Red+Hat+Display:ital@0;1&display=swap" rel="stylesheet">
 <title>Caleb Clay</title>`;
 const header = document.querySelector("head")
-hw
+header.innerHTML = headerContent;
 const title = document.querySelector("head > title");
 const contentTitle = document.querySelector("#content-title");
 if (contentTitle !== null) {
