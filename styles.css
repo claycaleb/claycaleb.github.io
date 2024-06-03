@@ -2,18 +2,19 @@ h1, h2, h3 {
   font-family: "DM Serif Display", serif;
   font-weight: 400;
   font-style: normal;
+  margin-bottom: 0;
 }
 
 h1 {
-  font-size: 3.815rem;
+  font-size: 2.986rem;
 }
 
 h2 {
-  font-size: 3.052rem;
+  font-size: 2.488rem;
 }
 
 h3 {
-  font-size: 2.441rem;
+  font-size: 2.074rem;
 }
 
 h1 > a {
@@ -34,10 +35,6 @@ body {
   max-width: 40em;
   margin: 0 auto;
   padding: 10px;
-}
-
-#content-title {
-  margin-bottom: 0;
 }
 
 #date {
