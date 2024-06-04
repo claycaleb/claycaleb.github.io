@@ -14,5 +14,5 @@ header.innerHTML = headerContent;
 
 // Footer Component
 const footer = document.querySelector("body > footer");
-const footerContent = "<p>&copy; 2024 Caleb Clay";
+const footerContent = "<p>&copy; 2024 Caleb Clay. All rights reserved.";
 footer.innerHTML = footerContent;
