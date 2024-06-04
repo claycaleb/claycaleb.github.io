@@ -48,6 +48,16 @@ body {
   font-size: 0.8rem;
 }
 
+img {
+  width: 50%;
+}
+
+@media only screen and (max-width: 480px) {
+  img {
+    width: 100%;
+  }
+}
+
 footer {
   text-align: center;
 }
