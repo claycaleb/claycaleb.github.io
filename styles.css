@@ -54,13 +54,10 @@ blockquote {
   font-style: italic;
 }
 
-.img-container {
-  display: block;
-  margin: auto;
-}
-
 img {
   width: 75%;
+  display: block;
+  margin: auto;
 }
 
 @media (max-width: 480px) {
