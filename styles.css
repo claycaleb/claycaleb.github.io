@@ -49,7 +49,7 @@ blockquote {
   font-style: italic;
 }
 
-img {
+img, iframe {
   width: 75%;
   display: block;
   margin: auto;
