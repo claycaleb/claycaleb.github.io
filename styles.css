@@ -52,7 +52,7 @@ blockquote {
 img, iframe {
   width: 75%;
   display: block;
-  margin: auto;
+  margin: 0 auto;
 }
 
 @media (max-width: 480px) {
