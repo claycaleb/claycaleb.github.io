@@ -1,7 +1,7 @@
 {
-    "name": "My New Hugo Site",
-    "short_name": "My New Hugo Site",
-    "start_url": "https://example.org/",
+    "name": "Testing Testing",
+    "short_name": "Testing Testing",
+    "start_url": "https://calebclay.com/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
