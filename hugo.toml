@@ -1,4 +1,23 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://calebclay.com/"
+languageCode = "en-us"
+title = "Caleb Clay | Technical Builder"
 theme = "hugo-blog-awesome"
+enableEmoji = true
+
+[menu]
+[[menu.main]]
+  pageRef = "/"
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[params]
+  sitename = "Testing Testing"
+  defaultColor = "light"
+  description = "More testing here..."
+
+[params.author]
+  avatar = "picture.jpg"
+  intro = "Testing this here text"
+  name = "Caleb Clay"
+  description = "Technical Builder"
