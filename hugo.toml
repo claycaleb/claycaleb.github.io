@@ -1,6 +1,6 @@
 baseURL = 'https://calebclay.com/'
 languageCode = "en-us"
-title = "Caleb Clay | Technical Builder"
+title = "Caleb Clay | Technical Builder & Writer"
 theme = "hugo-blog-awesome"
 enableEmoji = true
 
@@ -22,7 +22,7 @@ enableEmoji = true
   weight = 30
 
 [params]
-  sitename = "Caleb Clay | Technical Builder"
+  sitename = "Caleb Clay"
   defaultColor = "auto"
   description = "Caleb's personal website to share thoughts and showcase work"
   mainSections = ['posts']
