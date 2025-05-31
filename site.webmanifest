@@ -1,7 +1,7 @@
 {
-    "name": "Caleb Clay | Technical Builder",
-    "short_name": "Caleb Clay | Technical Builder",
-    "start_url": "http://localhost:1313/",
+    "name": "Caleb Clay",
+    "short_name": "Caleb Clay",
+    "start_url": "https://calebclay.com/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
