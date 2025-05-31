@@ -17,7 +17,7 @@ enableEmoji = true
   description = "More testing here..."
 
 [params.author]
-  avatar = "picture.jpg"
-  intro = "Testing this here text"
+  avatar = "caleb.jpeg"
+  intro = "Caleb Clay"
   name = "Caleb Clay"
   description = "Technical Builder"
