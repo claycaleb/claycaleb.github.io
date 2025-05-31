@@ -1,7 +1,7 @@
 {
     "name": "Testing Testing",
     "short_name": "Testing Testing",
-    "start_url": "https://calebclay.com/",
+    "start_url": "http://localhost:1313/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
