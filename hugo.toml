@@ -1,4 +1,4 @@
-baseURL = "https://calebclay.com/"
+baseURL = 'https://calebclay.com/'
 languageCode = "en-us"
 title = "Caleb Clay | Technical Builder"
 theme = "hugo-blog-awesome"
@@ -7,14 +7,29 @@ enableEmoji = true
 [menu]
 [[menu.main]]
   pageRef = "/"
-  name = "Home"
-  url = "/"
+  name = 'Home'
+  url = '/'
   weight = 10
+[[menu.main]]
+  pageRef = "posts"
+  name = 'Posts'
+  url = '/posts/'
+  weight = 20
+[[menu.main]]
+  pageRef = "about"
+  name = 'About'
+  url = '/about/'
+  weight = 30
 
 [params]
-  sitename = "Testing Testing"
-  defaultColor = "light"
-  description = "More testing here..."
+  sitename = "Caleb Clay | Technical Builder"
+  defaultColor = "auto"
+  description = "Caleb's personal website to share thoughts and showcase work"
+  mainSections = ['posts']
+  toc = false
+  tocOpen = false
+  dateFormat = ""
+  rssFeedDescription = "summary"
 
 [params.author]
   avatar = "caleb.jpeg"
