@@ -35,7 +35,7 @@ enableEmoji = true
   avatar = "caleb.jpeg"
   intro = "Caleb Clay"
   name = "Caleb Clay"
-  description = "Technical Builder & Writer"
+  description = "Career-Tech Teacher & Writer"
 
 [params.webmanifest]
   name = "sitename"
