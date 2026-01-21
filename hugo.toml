@@ -1,6 +1,6 @@
 baseURL = 'https://calebclay.com/'
 languageCode = "en-us"
-title = "Caleb Clay | Technical Builder & Writer"
+title = "Caleb Clay | Career-Tech Teacher & Writer"
 theme = "hugo-blog-awesome"
 enableEmoji = true
 
