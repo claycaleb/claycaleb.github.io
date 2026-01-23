@@ -1,7 +1,14 @@
-+++
-date = 2026-01-22T22:30:06-05:00
-draft = false
-title = "Test post"
-+++
+---
+title: "Test post"
+date: "2026-01-22"
+draft: true
+description: ""
+slug: ""
+tags: []
+categories: []
+---
+# Test post
+
+
 
 This is a test.

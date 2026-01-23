@@ -1,10 +1,10 @@
 ---
 title: "{{title}}"
-date: “{{date}}T{{time}}”
+date: "{{date}}"
 draft: true
 description: ""
 slug: ""
 tags: []
 categories: []
 ---
-
+# {{title}}
