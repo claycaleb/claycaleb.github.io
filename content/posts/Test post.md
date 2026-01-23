@@ -7,6 +7,4 @@ slug: ""
 tags: []
 categories: []
 ---
-# Test post
-
 This is a test.
