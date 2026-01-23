@@ -1,5 +1,11 @@
-+++
+---
+title = "{{title}}"
 date = {{date}}T{{time}}
 draft = true
-title = "{{title}}"
-+++
+description = ""
+slug = ""
+tags = []
+categories = []
+lastmod = {{date}}T{{time}}
+---
+
