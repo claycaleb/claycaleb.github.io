@@ -7,9 +7,6 @@ slug: ""
 tags: []
 categories: []
 ---
-
-
-
 # Header Goes Here
 
 Some text goes here.
