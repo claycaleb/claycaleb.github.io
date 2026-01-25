@@ -1,6 +1,8 @@
 ---
 title: 3 things that brought me joy yesterday
-date: 2025-08-08
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %> 
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+published: 2025-08-08
 description:
 draft: false
 tags:

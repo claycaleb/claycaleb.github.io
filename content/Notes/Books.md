@@ -1,6 +1,8 @@
 ---
 title: "Books"
-date: "2026-01-24"
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %> 
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+published: "2026-01-24"
 description:
 draft: false
 tags:

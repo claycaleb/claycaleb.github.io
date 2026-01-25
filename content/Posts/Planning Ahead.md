@@ -1,6 +1,8 @@
 ---
 title: Planning Ahead
-date: 2024-06-17
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %> 
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+published: 2024-06-17
 description:
 draft: false
 tags:

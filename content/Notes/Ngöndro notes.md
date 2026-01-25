@@ -1,6 +1,8 @@
 ---
 title: Ngöndro notes
-date: 2023-06-05
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %> 
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+published: 2023-06-05
 description:
 draft: false
 tags:

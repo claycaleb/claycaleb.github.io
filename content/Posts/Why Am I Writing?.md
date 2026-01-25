@@ -1,6 +1,8 @@
 ---
 title: Why Am I Writing?
-date: 2024-06-11
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %> 
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+published: 2024-06-11
 description:
 draft: false
 tags:

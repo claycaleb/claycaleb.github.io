@@ -1,6 +1,8 @@
 ---
 title: Quitting and Pivoting
-date: 2025-08-31
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %> 
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+published: 2025-08-31
 description:
 draft: false
 tags:

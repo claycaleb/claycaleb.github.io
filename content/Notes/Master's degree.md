@@ -1,6 +1,8 @@
 ---
 title: Master's degree
-date: 2026-01-25
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %> 
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+published: 2026-01-25
 description:
 draft: false
 tags:
