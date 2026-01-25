@@ -22,11 +22,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta({
-      showReadingTime: true,
-      showComma: true,
-      showModifiedDate: true
-    }),
+    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
