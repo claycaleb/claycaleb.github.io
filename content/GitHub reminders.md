@@ -1,3 +1,10 @@
+---
+title: GitHub reminders
+Date: 2026-01-24
+description:
+draft: false
+tags:
+---
 I need to remember to clone like this (SSH):
 ```
 git clone git@github.com:username/repo.git

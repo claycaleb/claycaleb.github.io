@@ -1,6 +1,13 @@
+---
+title: "Books"
+Date: "2026-01-24"
+description:
+draft: false
+tags:
+---
 ## 2026
 - *A Swim in a Pond and the Rain* by George Saunders*
-- *The Black Swan* by Nassim Nicholas Taleb
+- *The Black Swan* by Nassim Nicholas Taleb*
 ## 2025
 - *Zen and The Art of Motorcycle Maintenance* by Robert Pirsig
 - *How to Read a Book* by Mortimer J Adler and Charles Van Doren

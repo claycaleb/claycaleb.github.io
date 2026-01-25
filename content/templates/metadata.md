@@ -1,8 +1,7 @@
 ---
-title: Example Title
-Date:
+title: "{{title}}"
+Date: "{{date}}"
 description:
 draft: false
 tags:
-  - example-tag
 ---
