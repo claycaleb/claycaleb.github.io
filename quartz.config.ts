@@ -8,47 +8,49 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Caleb Clay",
+    pageTitleSuffix: "Career-Tech Teacher | Writer",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "www.calebclay.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Instrument Serif",
+        body: "DM Sans",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fcfcfa",        // pale, almost white background
+          lightgray: "#e8e8e6",    // subtle borders / panels
+          gray: "#b0b0ad",         // muted text / secondary elements
+          darkgray: "#4a4a47",     // main body text
+          dark: "#1f1f1c",         // headers / icons
+        
+          secondary: "#7ca392",    // soft, gentle greenish-blue accent for links / current node
+          tertiary: "#a3c2b6",     // lighter accent for hover / visited node
+        
+          highlight: "#f0f7f4",    // pale background highlight
+          textHighlight: "#e6f2ef" // subtle markdown highlight
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#121210",        // deep charcoal background
+          lightgray: "#2c2c28",    // borders / panels
+          gray: "#6d6d68",         // muted text / secondary elements
+          darkgray: "#c0c0b8",     // main body text
+          dark: "#f5f5f0",         // headers / icons
+        
+          secondary: "#7ca392",    // same gentle greenish-blue accent
+          tertiary: "#a3c2b6",     // lighter accent for hover / visited node
+        
+          highlight: "#2a332f",    // subtle highlight overlay for dark bg
+          textHighlight: "#3b4540" // markdown highlight background
         },
       },
     },
