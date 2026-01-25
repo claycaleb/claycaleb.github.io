@@ -10,7 +10,7 @@ I need to remember to clone like this (SSH):
 git clone git@github.com:username/repo.git
 ```
 
-NOT this (HTTPS):
+**NOT** this (HTTPS):
 ```
 git clone https//:github.com/username/repo
 ```
