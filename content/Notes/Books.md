@@ -1,12 +1,13 @@
 ---
-title: "Books"
-created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %> 
+title: Books
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %>
 modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
-published: "2026-01-24"
-description:
+published: 2026-01-24
+description: A list of books I've read in the past year or so since I started keeping track.
 draft: false
 tags:
 ---
+A list of books I've read in the past year or so since I started keeping track.
 ## 2026
 - *A Swim in a Pond and the Rain* by George Saunders*
 - *The Black Swan* by Nassim Nicholas Taleb*

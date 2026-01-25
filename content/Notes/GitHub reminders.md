@@ -9,6 +9,15 @@ tags:
   - terminal
   - github
 ---
+## Git process
+```
+git add file
+git commit -m "[Insert message here]"
+git push
+```
+
+## Use SSH to clone
+
 I need to remember to clone like this (SSH):
 ```
 git clone git@github.com:username/repo.git
@@ -26,4 +35,13 @@ git remote set-url origin git@github.com:username/repo
 
 # Verify it changed
 git remote -v
+```
+
+# command not found: quartz
+For some reason, this ancient Macbook reverts back to node v8.9.3.
+```
+# If npx quartz sync --no-pull results in command not found: quartz
+nvm use --lts
+node --version
+npm --version
 ```
