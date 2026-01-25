@@ -4,6 +4,8 @@ date: 2026-01-24
 description:
 draft: false
 tags:
+  - terminal
+  - github
 ---
 I need to remember to clone like this (SSH):
 ```
