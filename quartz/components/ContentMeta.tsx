@@ -12,11 +12,16 @@ interface ContentMetaOptions {
    */
   showReadingTime: boolean
   showComma: boolean
+  /**
+   * Whether to display modified date
+   */
+  showModifiedDate: boolean
 }
 
 const defaultOptions: ContentMetaOptions = {
   showReadingTime: true,
   showComma: true,
+  showModifiedDate: true,
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -30,7 +35,21 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
+        // Show published date
+        segments.push("Published: ")
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+        
+        // Show modified date if it exists and is different from published
+        if (options.showModifiedDate && fileData.dates.modified) {
+          const publishedDate = getDate(cfg, fileData)!
+          const modifiedDate = fileData.dates.modified
+          
+          // Only show if modified date is different from published date
+          if (modifiedDate.getTime() !== publishedDate.getTime()) {
+            segments.push("Updated: ")
+            segments.push(<Date date={modifiedDate} locale={cfg.locale} />)
+          }
+        }
       }
 
       // Display reading time if enabled
@@ -39,7 +58,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
-        segments.push(<span>{displayedTime}</span>)
+        segments.push(displayedTime)
       }
 
       return (
