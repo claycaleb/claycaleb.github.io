@@ -11,7 +11,7 @@ tags:
 
 I turned 27 on Sunday. Here are 27 thoughts and reminders. These are things I’ve collected over the years and none of them are original. I even stole the idea to do this from [Jackson Dahl](https://jacksondahl.com/Posts/27+Pieces+of+Advice+on+my+27th+Birthday).
 
-1. 1. Major life decisions should [fit the context of your life](https://www.henrikkarlsson.xyz/p/unfolding).
+1. Major life decisions should [fit the context of your life](https://www.henrikkarlsson.xyz/p/unfolding).
 2. You can really do anything if you’re willing to accept the consequences.
 3. Change is like gravity in that it can take a lot of effort to [get out of the orbit of your current habits](https://sammatla.com/hyperproductivity/).
 4. I’ve realized most of my previous goals had all been an attempt to run away from what’s right in front of me.
