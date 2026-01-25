@@ -12,7 +12,7 @@ I took refuge with Khenpo Ugyen Tenzin at Columbus Karma Thegsum Chöling (KTC) 
 
 After that, I completed the "Dharma Paths Program" at Columbus KTC - an eight-class Introduction to Buddhism course. I read *Dharma Paths* by Khenpo Karthar Rinpoche sometime after that. 
 
-I say that I'm a "bad Buddhist" for a few reasons. I can't seem to keep up a daily practice. Maybe one of these days. I also started ngöndro, an advanced Tibetan Buddhist practice in 2023. The first "goal," if you want to call it that, is to do 111,111 prostrations. I did roughly 10,000 prostrations and stopped. I've been somewhat estranged from Columbus KTC since then.
+I say that I'm a "bad Buddhist" for a few reasons. I can't seem to keep up a daily practice. Maybe one of these days. I also started [[Ngöndro notes|ngöndro]], an advanced Tibetan Buddhist practice in 2023. The first "goal," if you want to call it that, is to do 111,111 prostrations. I did 8,999 prostrations and stopped. I've been somewhat estranged from Columbus KTC since then.
 ## Empowerments
 - Chenrizig Empowerment from Khenpo Ugyen Tenzin on 05/28/2022
 ## Reading Transmissions
