@@ -1,6 +1,6 @@
 ---
 title: My Buddhist path
-Date: 2026-01-24
+date: 2026-01-24
 description:
 draft: false
 tags:

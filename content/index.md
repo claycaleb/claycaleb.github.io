@@ -1,6 +1,6 @@
 ---
 title: Welcome to Caleb's digital garden
-Date: 2026-01-24
+date: 2026-01-24
 description:
 draft: false
 tags:
