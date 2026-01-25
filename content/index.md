@@ -13,7 +13,7 @@ Hi! I'm Caleb, a high-school career-tech teacher in Ohio. I'm building this to k
 - My wife and I both teach at the same high school
 - I'm a bad [[My Buddhist path|Buddhist]]
 - I read [[Books|books]]
-- Working on my Master's degree at OSU
+- Working on my [[Master's degree]] at OSU
 - Current interests include:
 	- Lifting (loosely following Jim Wendler's [[531]] right now)
 	- Creating and tending to this digital garden
