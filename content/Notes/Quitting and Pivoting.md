@@ -6,7 +6,7 @@ draft: false
 tags:
   - Substack
 ---
-Originally published on Substack [here](https://substack.com/@calebclay/note/c-151106604).
+*Originally published on Substack [here](https://substack.com/@calebclay/note/c-151106604).*
 
 Thinking about the difference between quitting and pivoting. There’s merit in finishing what you start, but what’s worth finishing? The version of you that set a goal is different than the version of you that works toward the goal, and the outcome you wanted may not fit the context of your life once you’re in the middle of it.
 
