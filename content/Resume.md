@@ -101,6 +101,15 @@ Columbus, OH | calebaclay@gmail.com | [github.com/claycaleb](https://github.com/
 
 <h2>Projects</h2>
 <div class="resume-line">
+	<span><b><a href="/">Digital Garden</a></b></span>
+	<span>2026-Present</span>
+</div>
+<div> 
+	<ul style="margin: 0;">
+	    <li><span class="small">This website, built with Quartz to explore writing and professional projects</span></li>
+	 </ul>
+</div>
+<div class="resume-line">
 	<span><b>IEP Documentation Automation</b></span>
 	<span>2023-Present</span>
 </div>
@@ -108,15 +117,6 @@ Columbus, OH | calebaclay@gmail.com | [github.com/claycaleb](https://github.com/
 	<ul style="margin: 0;">
 		<li><span class="small">Used Google AppsScript to speed up the IEP writing process</span></li>
 	    <li><span class="small">Building a solution with Google AppSheet</span></li>
-	 </ul>
-</div>
-<div class="resume-line">
-	<span><b><a href="/">Digital Garden</a></b></span>
-	<span>2025</span>
-</div>
-<div> 
-	<ul style="margin: 0;">
-	    <li><span class="small">This website, built with Quartz to explore writing and professional projects</span></li>
 	 </ul>
 </div>
 <div class="resume-line">
