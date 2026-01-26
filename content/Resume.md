@@ -8,7 +8,7 @@ draft: false
 tags:
 ---
 # Caleb Clay
-Columbus, OH | calebaclay@gmail.com | [github.com/claycaleb](https://github.com/claycaleb)
+Columbus, OH | caleb@calebclay.com | [github.com/claycaleb](https://github.com/claycaleb)
 
 <style>
 	.resume-line {
@@ -101,12 +101,12 @@ Columbus, OH | calebaclay@gmail.com | [github.com/claycaleb](https://github.com/
 
 <h2>Projects</h2>
 <div class="resume-line">
-	<span><b><a href="/">Digital Garden</a></b></span>
+	<span><b>Digital Garden</b></span>
 	<span>2026-Present</span>
 </div>
 <div> 
 	<ul style="margin: 0;">
-	    <li><span class="small">This website, built with Quartz to explore writing and professional projects</span></li>
+	    <li><span class="small"><a href="/">This website</a>, built with Quartz to explore writing and professional projects</span></li>
 	 </ul>
 </div>
 <div class="resume-line">
