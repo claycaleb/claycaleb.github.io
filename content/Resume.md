@@ -55,10 +55,6 @@ Columbus, OH | caleb@calebclay.com | [github.com/claycaleb](https://github.com/c
 </div>
 <br>
 <div class="resume-line">
-	<span><b>Loan Coordinator</b></span>
-	<span>2021</span>
-</div>
-<div class="resume-line">
 	<span><b>Loan Advisor</b></span>
 	<span>2020-2021</span>
 </div>
