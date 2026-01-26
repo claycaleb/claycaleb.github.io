@@ -9,6 +9,7 @@ tags:
 ---
 A list of books I've read in the past year or so since I started keeping track.
 ## 2026
+- *The Score* by C. Thi Nguyen (audiobook)*
 - *A Swim in a Pond and the Rain* by George Saunders*
 - *The Black Swan* by Nassim Nicholas Taleb*
 ## 2025

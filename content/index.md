@@ -5,7 +5,7 @@ description:
 draft: false
 tags:
 ---
-Hi! I'm Caleb, a high-school career-tech teacher in Ohio. I'm building this to keep my writing in one spot and to "work with the garage door open." Looking forward to watching this grow over time.
+Hi! I'm Caleb, a high-school career-tech teacher in Ohio. I'm building this digital garden to keep my writing in one spot and to "work with the garage door open." Looking forward to watching this grow over time.
 
 ## A little bit more about me
 
