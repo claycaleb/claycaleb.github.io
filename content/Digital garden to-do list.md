@@ -8,6 +8,7 @@ draft: true
 tags:
 ---
 - [ ] Add work verification and experience to [[Master's degree]]
-- [ ] Create resume
+- [x] Create resume
 - [x] Process OG Obsidian vault
-- [ ] Add published and modified dates
+- [x] Add published and modified dates
+- [ ] Add analytics [GoatCounter](https://quartz.eilleeenz.com/meta/GoatCounter-analytics)
