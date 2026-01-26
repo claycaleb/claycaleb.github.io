@@ -46,15 +46,6 @@ Columbus, OH | caleb@calebclay.com | [github.com/claycaleb](https://github.com/c
 </div>
 <br>
 <div class="resume-line">
-	<span><b>English Transcriber</b></span>
-	<span>2021-2022</span>
-</div>
-<div class="resume-line">
-	<span><i>Productive Playhouse</i></span>
-	<span>Columbus, Ohio</span>
-</div>
-<br>
-<div class="resume-line">
 	<span><b>Loan Advisor</b></span>
 	<span>2020-2021</span>
 </div>
