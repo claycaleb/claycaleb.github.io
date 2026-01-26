@@ -6,6 +6,7 @@ published:
 description:
 draft: false
 tags:
+enableToc: false
 ---
 # Caleb Clay
 Columbus, OH | caleb@calebclay.com | [github.com/claycaleb](https://github.com/claycaleb)
