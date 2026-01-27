@@ -12,3 +12,4 @@ tags:
 - [x] Process OG Obsidian vault
 - [x] Add published and modified dates
 - [ ] Add analytics [GoatCounter](https://quartz.eilleeenz.com/meta/GoatCounter-analytics)
+- [ ] hide backlinks on resume
