@@ -7,7 +7,7 @@ description:
 draft: false
 tags:
 ---
-Flow is a term defined by Mihaly C... It's a state of mind where you lose track of time. You're doing something for the sake of the thing. 
+Flow is a term defined by Mihaly Csikszentmihalyi. It's a state of mind where you lose track of time. You're doing something for the sake of the thing. 
 
 I've found flow in a few memorable ways:
 - Early morning Mario Kart time trials
