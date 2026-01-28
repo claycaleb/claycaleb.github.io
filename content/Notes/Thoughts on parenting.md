@@ -1,7 +1,7 @@
 ---
 title: Thoughts on parenting
 created: 12-16-2023
-modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+modified: 2026-01-28T04:29:25Z
 published: 2026-01-25
 description:
 draft: false

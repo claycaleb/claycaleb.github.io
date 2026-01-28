@@ -1,7 +1,7 @@
 ---
 title: Digital garden to-do list
-created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %>
-modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+created: 2026-01-25T12:14:25-05:00
+modified: 2026-01-28T04:29:25Z
 published:
 description:
 draft: true

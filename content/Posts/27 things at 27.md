@@ -1,7 +1,7 @@
 ---
 title: 27 things at 27
-created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %> 
-modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+created: 2026-01-25T01:39:38-05:00 
+modified: 2026-01-28T04:29:25Z
 published: 2025-09-10
 description:
 draft: false

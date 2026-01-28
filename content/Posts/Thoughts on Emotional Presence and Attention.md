@@ -1,7 +1,7 @@
 ---
 title: Thoughts on Emotional Presence and Attention
-created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %> 
-modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+created: 2026-01-24T23:57:47-05:00 
+modified: 2026-01-28T04:29:25Z
 published: 2025-11-06
 description:
 draft: false
