@@ -1,11 +1,13 @@
 ---
 title: Welcome to Caleb's digital garden
-date: 2026-01-24
+created: 2026-01-25T09:30:00-05:00
+modified: 2026-01-28T07:36:52-05:00
+published: 2026-01-24
 description:
 draft: false
 tags:
 ---
-Hi! I'm Caleb, a high-school career-tech teacher in Ohio. I'm building this digital garden to keep my writing in one spot and to "work with the garage door open." Looking forward to watching this grow over time.
+Hi! I'm Caleb, a high-school career-tech teacher in Ohio. Check out my [[Resume|resume]]. I'm building this digital garden to keep my writing in one spot and to "work with the garage door open." Looking forward to watching this grow over time.
 
 ## A little bit more about me
 
