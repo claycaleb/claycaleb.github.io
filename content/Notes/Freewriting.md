@@ -8,7 +8,7 @@ draft: false
 tags:
   - writing
 ---
-Freewriting is a process in which you write without stopping for a set period of time. Its the main mechanism behind "morning pages" popularized by Julia Cameron in *The Artist's Way*. Tim Ferriss mentioned morning pages and the aforementioned book in his YouTube video titled "[How to Use Writing to Sharpen Your Thinking](https://www.youtube.com/watch?v=65U5byDZ55M)".
+Freewriting is a process in which you write without stopping for a set period of time. It's the main mechanism behind "morning pages" popularized by Julia Cameron in *The Artist's Way*. Tim Ferriss mentioned morning pages and the aforementioned book in his YouTube video titled "[How to Use Writing to Sharpen Your Thinking](https://www.youtube.com/watch?v=65U5byDZ55M)".
 
 Oliver Burkeman wrote about it recently in his newsletter, [*The Imperfectionist*](https://www.oliverburkeman.com/the-imperfectionist). He recommends starting with 10 minutes. You don't have to write particularly fast. The idea is that you write with an uninhibited mindset. What comes out might suck, and it *will* suck most of the time, but occasionally you'll get some interesting insights and you'll be able to get to the bottom of your thinking. The thinking behind your thinking, perhaps. I think he used the phrase "drain the faucet," although Ali Abdaal may have written that in his newsletter about the same topic.
 
