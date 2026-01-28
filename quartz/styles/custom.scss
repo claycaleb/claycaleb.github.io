@@ -11,8 +11,7 @@ body[data-slug="Resume"] {
   h1.article-title,
   footer,
   .search,
-  .readermode,
-  .backlinks {
+  .readermode {
     display: none;
   }
   
@@ -33,7 +32,7 @@ body[data-slug="Resume"] {
   
   // You might also want to hide the right sidebar entirely
   .right {
-    display: none;
+    display: none !important;
   }
 
   .flex-component {
