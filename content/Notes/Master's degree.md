@@ -8,7 +8,7 @@ draft: false
 tags:
   - teaching
 ---
-I'm getting my MA in Educational Studies in Workforce Development, specializing in Career and Technical Education at The Ohio State University.
+I'm getting my MA in Educational Studies in Workforce Development with a specialization in Career and Technical Education at The Ohio State University.
 
 I have a 2-Year Provisional Career-Technical Workforce Development (CTWD) license in Business Administration and Management. In order to advance to the 5-Year Advanced CTWD license, I have to complete a CTWD educator preparation program.
 

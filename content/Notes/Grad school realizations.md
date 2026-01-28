@@ -10,5 +10,5 @@ tags:
 I'm working on my [[Master's degree]]. At the time of this writing I'm taking Teaching Reading Across the Curriculum. 
 
 A few things I've realized about myself:
-- I strongly prefer to read on paper. I need to be able to feel the pages, underline words and annotate in the margins. Reading kind of sucks when isn't active reading.
+- I strongly prefer to read on paper. I need to be able to feel the pages, underline words, and annotate in the margins. Reading kind of sucks when isn't active reading.
 - In the past, I've tried to write and edit at the same time. It's like trying to multitask without realizing it. It's so much easier to [[Freewriting|freewrite]] on a page and edit afterwards.
