@@ -2,11 +2,10 @@
 title: Resume
 created: 2026-01-25T17:04:00-05:00
 modified: 2026-01-28T04:29:25Z
-published:
+published: 2026-01-26
 description:
 draft: false
 tags:
-enableToc: false
 ---
 # Caleb Clay
 Columbus, OH | caleb@calebclay.com | [github.com/claycaleb](https://github.com/claycaleb)
