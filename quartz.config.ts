@@ -12,7 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: 'goatcounter',
+      websiteId: 'calebclay'
+    },
     locale: "en-US",
     baseUrl: "www.calebclay.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
