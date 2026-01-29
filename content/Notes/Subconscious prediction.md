@@ -42,7 +42,7 @@ I'm more clear on the difference between conscious knowing and unconscious knowi
 
 I wonder how much unconscious knowing happens in our day-to-day experience.
 
-This also made me realize the difficulty of writing something in your own words. I'm glad I did, though - copy/pasting felt wrong and like I didn't "earn" the knowledge.
+This also made me re-realize the difficulty of writing something in your own words. I'm glad I did, though - copy/pasting felt wrong and like I didn't "earn" the knowledge.
 
 Semantic cueing sounds familiar and I have a hunch that I'll learn more about it in my Teaching Reading Across the Curriculum class. What does the word semantic mean? I think it means "structural." I think there's another word related to semantic. Pedantic, maybe? That doesn't feel correct.
 
