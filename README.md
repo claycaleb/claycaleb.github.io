@@ -12,7 +12,3 @@ This is my digital garden where I publish my thoughts and notes. I write in [Obs
 
 - [Quartz v4](https://quartz.jzhao.xyz/) - Static site generator
 - Deployed via GitHub Pages
-
-## License
-
-MIT
