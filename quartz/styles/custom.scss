@@ -1,0 +1,41 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+// Resume page customization
+body[data-slug="resume"],
+body[data-slug="Resume"] {
+  .page-title,
+  article > header,
+  .content-meta,
+  h1.article-title,
+  footer,
+  .search,
+  .readermode {
+    display: none;
+  }
+  
+  // Hide table of contents
+  .toc {
+    display: none;
+  }
+  
+  // Hide explorer
+  .explorer {
+    display: none;
+  }
+
+  // Hide graph
+  .graph {
+    display: none;
+  }
+  
+  // You might also want to hide the right sidebar entirely
+  .right {
+    display: none !important;
+  }
+
+  .flex-component {
+    gap: 0 !important;
+  }
+}
