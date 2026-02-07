@@ -11,7 +11,7 @@ My left headlight went out this week. I could tell, but I didn't want to believe
 
 At first I thought about taking it to Firestone. Then, I remembered my first car, a 2005 Nissan Altima (oh, how I miss that beat-up boat), and how I had replaced headlight bulbs before. Easy. Probably way cheaper, too. I searched my "2013 Hyundai Accent headlight bulb replacement" and watched a five-minute video.
 
-I bought LED bulbs for $31 on Amazon. Much cheaper than LED bulbs from AutoZone. Cheaper than halogen bulbs from AutoZone, too. After some back and forth with Claude, I knew I made the right choice. Claude let me know that the LED bulbs would probably outlast the car, and that I probably saved $100-$200.
+I bought LED bulbs for \$31 on Amazon. Much cheaper than LED bulbs from AutoZone. Cheaper than halogen bulbs from AutoZone, too. After some back and forth with Claude, I knew I made the right choice. Claude let me know that the LED bulbs would probably outlast the car, and that I probably saved \$100-\$200.
 
 The bulbs were supposed to get here Wednesday morning. I thought I might be able to do it during my lunch break. They didn't arrive until Thursday. Too much to do to attempt a replacement then. On Friday it was 30 degrees. Saturday was going to be five degrees. I saw my opportunity.
 
@@ -27,10 +27,10 @@ I felt proud of myself. I accomplished a necessary maintenance task for cheap. M
 
 In a world where you can outsource anything, what's worth doing? I'm imagining an equation with a few variables: how quickly you need it done, cost of outsourcing, difficulty of the task, how long the task will take if you do it yourself. Maybe you can boil it down to cost if you ballpark how much your labor costs per hour. I'll ballpark mine around $100/hour.
 
-|           | Cost      | Time                | Total     |
-| --------- | --------- | ------------------- | --------- |
-| **DIY**       | $31       | 30 minutes = $50    | $81       |
-| **Firestone** | $150-$250 | 150 minutes* = $300 | $450-$550 |
+|               | Cost        | Time                | Total       |
+| ------------- | ----------- | ------------------- | ----------- |
+| **DIY**       | $31         | 30 minutes = $50    | $81         |
+| **Firestone** | \$150-\$250 | 150 minutes* = $300 | \$450-\$550 |
 
 \* 10 minutes spent scheduling an appointment/communicating with Firestone and my wife + 30-minute round trip for me and my wife x2 (counting her time as $100/hour as well) + 10 minutes spent loading and unloading two kids x2
 
