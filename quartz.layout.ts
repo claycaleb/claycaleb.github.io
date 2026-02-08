@@ -45,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
           return a.isFolder ? -1 : 1
         }
         if (a.data?.date && b.data?.date) {
-          return b.data.date.getTime() - a.data.date.getTime()
+          return new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
         } else if (a.data?.date && !b.data?.date) {
           return -1
         } else if (!a.data?.date && b.data?.date) {
@@ -86,7 +86,7 @@ export const defaultListPageLayout: PageLayout = {
           return a.isFolder ? -1 : 1
         }
         if (a.data?.date && b.data?.date) {
-          return b.data.date.getTime() - a.data.date.getTime()
+          return new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
         } else if (a.data?.date && !b.data?.date) {
           return -1
         } else if (!a.data?.date && b.data?.date) {
